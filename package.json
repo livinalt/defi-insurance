@@ -1,0 +1,18 @@
+{
+  "name": "defi-insurance",
+  "version": "1.0.0",
+  "description": "An insurance platform that allows users provide liquidity to cover damage in the case of an insured event and they themselves receive interest for providing liquidity.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.20.1"
+  },
+  "dependencies": {
+    "ethers": "^6.11.1"
+  }
+}
